@@ -7,7 +7,8 @@ Mi primer blog realizado para el curso de Git y Github de Platzi
 - Anime
 - The End of Evangelion
 - Manga 
-- Rebuild 
+- Rebuild
+- Creado por el increible Sagger
 
 Como amable recordatorio este **readme.md** es un **chiste**. Diseñado para un ejemplo. Si llegaste aquí no te lo tomes en serio, gracias. 
 
