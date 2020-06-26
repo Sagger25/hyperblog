@@ -10,6 +10,7 @@ Mi primer blog realizado para el curso de Git y Github de Platzi
 - Rebuild
 - Creado por el increible Sagger
 - Incluye teorías
+- Disponible para todos
 
 Como amable recordatorio este **readme.md** es un **chiste**. Diseñado para un ejemplo. Si llegaste aquí no te lo tomes en serio, gracias. 
 
