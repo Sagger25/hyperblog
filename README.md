@@ -9,6 +9,7 @@ Mi primer blog realizado para el curso de Git y Github de Platzi
 - Manga 
 - Rebuild
 - Creado por el increible Sagger
+- Incluye teorías
 
 Como amable recordatorio este **readme.md** es un **chiste**. Diseñado para un ejemplo. Si llegaste aquí no te lo tomes en serio, gracias. 
 
